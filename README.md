@@ -17,4 +17,4 @@ This data set contains the following features:
 <li>'Clicked on Ad': 0 or 1 indicated clicking on Ad
 </ul><br>
 <br>
-ML Project working on Logistic Regression model. Upon considering various input factors, it determines the probability of the user clicking on advertisements displayed online over the internet with the accuracy of 97%.
+ML Project working on Logistic Regression model. Upon considering various input factors, it determines the probability of the user clicking on advertisements displayed online over the internet with the accuracy of 97.01%.
